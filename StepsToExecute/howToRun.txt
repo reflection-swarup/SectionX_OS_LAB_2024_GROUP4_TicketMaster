@@ -1,0 +1,5 @@
+1. Download all files (.c source code, and .txt databases) from the repository and save them in a common folder on your machine.
+2. Open terminal and navigate to the folder containing those files. In the screenshots, that common folder is named "osp".
+3. Compile the source code files.
+4. Open two terminals. In terminal 1, execute server.c, and in terminal 2, execute runner.c
+5. To simulate other users on the system, open a fresh terminal (terminal 3,4, etc.) and just execute runner.c in the fresh terminals
